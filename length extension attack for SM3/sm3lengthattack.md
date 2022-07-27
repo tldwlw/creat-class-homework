@@ -20,6 +20,7 @@ SM3的消息扩展：不直接使用数据分组；将每个64字节的数据分
 
 ## 实验结果
 
+![image](https://github.com/tldwlw/creat-class-homework/blob/main/images/capture_20220728000144578.png)
 
 
 
