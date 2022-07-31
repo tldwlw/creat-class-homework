@@ -1,0 +1,7 @@
+﻿  Hashmap.cpp
+C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\hash_func.h(67,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\hash_func.h(177,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\Hashmap.cpp(12,21): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\Hashmap.cpp(25,21): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\Hashmap.cpp(38,21): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+  Hashmap.vcxproj -> C:\Users\tldw\Desktop\cxcy\hashchain\Hashmap\Debug\Hashmap.exe
