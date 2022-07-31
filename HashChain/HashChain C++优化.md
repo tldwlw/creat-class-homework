@@ -34,7 +34,7 @@ int Hash(int key) {
 
 ### 结果展示
 
-
+![image](https://github.com/tldwlw/creat-class-homework/blob/main/images/capture_20220731115323306.png)
 
 
 
